@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d54b8270-97a3-4004-ba98-c4c43fe13623" name="Default Changelist" comment="" />
+    <list default="true" id="d54b8270-97a3-4004-ba98-c4c43fe13623" name="Default Changelist" comment="sa">
+      <change beforePath="$PROJECT_DIR$/BierHieropdracht/boerenkool.html" beforeDir="false" afterPath="$PROJECT_DIR$/BierHieropdracht/boerenkool.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BierHieropdracht/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/BierHieropdracht/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BierHieropdracht/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BierHieropdracht/overons.html" beforeDir="false" afterPath="$PROJECT_DIR$/BierHieropdracht/overons.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BierHieropdracht/recepten.html" beforeDir="false" afterPath="$PROJECT_DIR$/BierHieropdracht/recepten.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BierHieropdracht/stampot.html" beforeDir="false" afterPath="$PROJECT_DIR$/BierHieropdracht/stampot.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,13 +30,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Contactpagina/.idea" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\casme\PhpstormProjects\BierHier2" />
       <recent name="C:\Users\casme\PhpstormProjects\BierHier2\BierHieropdracht" />
       <recent name="C:\Users\casme\PhpstormProjects\BierHier2\BierHieropdracht\.idea" />
-      <recent name="C:\Users\casme\PhpstormProjects\BierHier2" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -40,11 +48,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608243912230</updated>
-      <workItem from="1608243913325" duration="714000" />
+      <workItem from="1608243913325" duration="1119000" />
     </task>
+    <task id="LOCAL-00001" summary="sa">
+      <created>1608244728987</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608244728987</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="sa" />
+    <option name="LAST_COMMIT_MESSAGE" value="sa" />
   </component>
 </project>
