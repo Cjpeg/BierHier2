@@ -1,0 +1,107 @@
+body {
+    background-color: white;
+    width: 100vw;
+    font-family: Impact, serif;
+}
+header {
+    background-color: lightpink;
+    width: 98vw;
+    height: 20%;
+    font-size: 3em;
+    font-family: Impact, serif;
+}
+nav {
+    background-color: lightpink;
+    width: 98vw;
+    text-align: center;
+    font-family: Impact, serif;
+}
+section {
+    background-color: white;
+    width: 85vw;
+    height: 85vw;
+    float: bottom;
+    padding: 20px;
+    margin: 5px;
+    font-family: Impact, serif;
+}
+footer {
+    position: absolute;
+    bottom: -100%;
+    background-color: dimgray;
+    width: 98vw;
+    height: 20%;
+    font-family: Elephant, serif;
+}
+@media all and (min-width: 724px) {
+    body {
+        background-color: white;
+        width: 100vw;
+        font-family: Impact, serif;
+    }
+    header {
+        background-color: lightpink;
+        width: 98vw;
+        height: 20%;
+        font-size: 3em;
+        font-family: Impact, serif;
+    }
+    nav {
+        background-color: lightpink;
+        width: 98vw;
+        text-align: center;
+        font-family: Impact, serif;
+    }
+    section {
+        background-color: white;
+        width: 90vw;
+        height: 40vw;
+        float: left;
+        font-family: Impact, serif;
+    }
+    footer {
+        position: absolute;
+        bottom: -100%;
+        background-color: dimgray;
+        width: 98vw;
+        height: 20%;
+        font-family: Elephant, serif;
+    }
+}
+@media all and (min-width: 1200px) {
+    body {
+        background-color: white;
+        width: 100vw;
+        font-family: Impact, serif;
+    }
+    header {
+        background-color: lightpink;
+        width: 98vw;
+        height: 20%;
+        font-size: 3em;
+        font-family: Impact, serif;
+    }
+    nav {
+        background-color: lightpink;
+        width: 98vw;
+        text-align: center;
+        font-family: Impact, serif;
+    }
+    section {
+        background-color: white;
+        width: 20vw;
+        height: 45vw;
+        float: left;
+        padding: 20px;
+        margin: 5px;
+        font-family: Impact, serif;
+    }
+    footer {
+        position: absolute;
+        bottom: 0;
+        background-color: dimgray;
+        width: 98vw;
+        height: 20%;
+        font-family: Elephant, serif;
+    }
+}
